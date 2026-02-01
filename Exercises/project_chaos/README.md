@@ -13,28 +13,6 @@ This project is intentionally disorganized. All files are in the root directory 
 
 Reorganize this project into a professional Python src/ layout:
 
-```
-project_chaos/
-├── src/
-│   └── project_chaos/
-│       ├── __init__.py
-│       ├── main.py
-│       ├── core/
-│       │   ├── __init__.py
-│       │   ├── database.py
-│       │   └── analytics.py
-│       └── utils/
-│           ├── __init__.py
-│           └── helpers.py
-├── tests/
-│   ├── __init__.py
-│   ├── test_database.py
-│   └── test_analytics.py
-├── README.md
-├── requirements.txt
-├── pyproject.toml
-└── .gitignore
-```
 
 ## Requirements
 
